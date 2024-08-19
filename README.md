@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="left">Hey There... Welcome To My Profile!</h1>
 
-<!--
-**Casaken/Casaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Berkay and I'm an aspiring Game Developer from Türkiye.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Currently Working On A Very Secret Project That Is Soon To Be Out There!<br>📚 I Am Currently Improving Myself Using Unity And C#!<br>
+
+###
+
+<h2 align="left">I Work With</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+  <img width="12" />
+</div>
+
+###
