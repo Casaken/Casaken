@@ -1,28 +1,37 @@
-<h1 align="left">Hey There... Welcome To My Profile!</h1>
+# Hello there! Glad you stopped by
 
-###
+![C#](https://img.shields.io/badge/C%23-%231F7A7A?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000?style=flat&logo=unity&logoColor=white)
 
-<p align="left">My name is Berkay and I'm an aspiring Game Developer from Türkiye.</p>
+Welcome to my digital playground! I’ve been passionately self-learning both **C#** and **game development** for the past year. I fully transitioned to game development six months ago and have been diving deep into **Unity** and **C#** ever since.
 
-###
+## About Me
 
-<h2 align="left">About me</h2>
+- **Hi, I'm Berkay!** 👋
+- **From:** Beautiful Türkiye 🌟
+- **Experience:** 1 year of self-learning C# and game development, with a focus on Unity for the past 6 months
+- **Technologies:** Unity, C#
 
-###
+## Current Projects
 
-<p align="left">✨ Currently Working On A Very Secret Project That Is Soon To Be Out There!<br>📚 I Am Currently Improving Myself Using Unity And C#!<br>
+I'm currently working on a **top-secret game development project** that will be released soon! Stay tuned for updates.
 
-###
+## Skills
 
-<h2 align="left">I Work With</h2>
+- **Game Development** 🎮
+- **Unity Engine**
+- **C# Programming** ⌨️
+- **Blender Basics**
 
-###
+Feel free to check out my repositories, and don't hesitate to reach out if you have any questions or collaborations in mind!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-  <img width="12" />
+---
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-k%C4%B1z%C4%B1ltu%C4%9F-98b769245/)
+
+<!-- Adding GIF on the right side -->
+<div align="right">
+  <img src="https://media.tenor.com/14155641065388817110/monkey.gif" alt="Shocked Monkey GIF" width="200"/>
 </div>
-
-###
