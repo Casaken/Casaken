@@ -31,7 +31,3 @@ Feel free to check out my repositories, and don't hesitate to reach out if you h
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkay-k%C4%B1z%C4%B1ltu%C4%9F-98b769245/)
 
-<!-- Adding GIF on the right side -->
-<div align="right">
-  <img src="https://media.tenor.com/14155641065388817110/monkey.gif" alt="Shocked Monkey GIF" width="200"/>
-</div>
