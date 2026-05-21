@@ -12,9 +12,6 @@ Welcome to my digital playground! I’ve been passionately self-learning both **
 - **Experience:** 1 year of self-learning C# and game development, with a focus on Unity for the past 6 months
 - **Technologies:** Unity, C#
 
-## Current Projects
-
-I'm currently working on a **top-secret game development project** that will be released soon! Stay tuned for updates.
 
 ## Skills
 
